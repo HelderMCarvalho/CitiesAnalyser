@@ -1,5 +1,4 @@
-# TP2_AEDII
-
+# CitiesAnalyser
 Program using directional weighted Graphs (with Binary Trees) to save cities and connections between them.
 
 Implementation of Dijkstra's Algorithm to get the shortest path.
